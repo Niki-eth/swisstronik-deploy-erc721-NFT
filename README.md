@@ -12,7 +12,7 @@ Ensure you have the following installed:
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/dante4rt/swisstronik-private-erc721.git
+    git clone https://github.com/Niki-eth/swisstronik-deploy-erc721-NFT.git
     cd swisstronik-private-erc721
     ```
 
