@@ -13,7 +13,7 @@ Ensure you have the following installed:
 1. Clone the repository:
     ```sh
     git clone https://github.com/Niki-eth/swisstronik-deploy-erc721-NFT.git
-    cd swisstronik-private-erc721
+    cd swisstronik-deploy-erc721-NFT
     ```
 
 2. Make the setup script executable and run it:
